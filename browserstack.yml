@@ -1,0 +1,22 @@
+userName: fourbendsit1
+accessKey: ABs2smszgcb93AxmeiFJ
+platforms:
+  - deviceName: Google Pixel 7
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - deviceName: OnePlus 8
+    osVersion: 10.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - deviceName: Samsung Galaxy S22 Ultra
+    osVersion: 12.0
+    browserName: samsung
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
